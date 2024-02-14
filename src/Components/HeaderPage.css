@@ -1,0 +1,34 @@
+.HeaderPagestyle {
+  position: fixed;
+  width: 99%;
+  height: 10vh;
+  border-radius: 20px;
+  box-shadow: 0.5px 0.5px 10px rgb(13, 40, 49);
+  margin-top: 10px;
+  background-color: black;
+  
+}
+.HeaderPagestyle :hover {
+  opacity: 0.9;
+}
+.h1m {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  font-size: 30px;
+  color: antiquewhite;
+  
+}
+.hpstyle {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  color: rgb(120, 120, 120);
+  font-size: 30px;
+  margin-top: 360px;
+  opacity: 0.8;
+}
+.adressstyle {
+  position: relative;
+  left: 80px;
+}
